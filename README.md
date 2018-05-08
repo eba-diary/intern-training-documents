@@ -2,7 +2,7 @@
 
 [ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
 
-[ If you have one, add your logo or an image here ]
+
 ![Newbook Digital Texts](http://www.newbookdigitaltexts.org/wp-content/uploads/2017/06/newbook-2.png)
 
 Welcome to the Emma B. Andrews Diary Project! Our team is working to transcribe and encode Nile travel journals, letters and other historical documents from the late 19th and early 20th centuries. Emma Andrews was an intrepid female diarist who visited Egypt over the course of two decades between 1889 and 1914. She was present when many archaeological discoveries were made in the Valley of the Kings, and her journals are an important source for history and society at the time. 
