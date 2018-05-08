@@ -1,9 +1,13 @@
 # The Emma B. Andrews Diary Project: Intern Training Material
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+Newbook Digital Texts is an innovative digital humanities publishing house re-imagining and restructuring traditional academic research, publication, and education.  Over six years, more than 140 University of Washington undergraduate interns and several graduate assistants have collaborated with faculty on projects ranging from Ottoman and Georgian poetry to nineteenth-century travel journals from Iraq and Egypt.  
 
+*  We promote systemic change in undergraduate education, technological innovation, and the preservation of at-risk historical documents.
+*  Our work is international, open source, and open access.  
+*  We are devoted to blending the traditional values of the humanities with the development of technological competency, effective communication skills, and the ability to work in a team-based environment.
 
 ![Newbook Digital Texts](http://www.newbookdigitaltexts.org/wp-content/uploads/2017/06/newbook-2.png)
+![Emma B. Andrews Diary Project] (http://www.newbookdigitaltexts.org/wp-content/uploads/2017/06/newbook-2.png)
 
 Welcome to the Emma B. Andrews Diary Project! Our team is working to transcribe and encode Nile travel journals, letters and other historical documents from the late 19th and early 20th centuries. Emma Andrews was an intrepid female diarist who visited Egypt over the course of two decades between 1889 and 1914. She was present when many archaeological discoveries were made in the Valley of the Kings, and her journals are an important source for history and society at the time. 
 
